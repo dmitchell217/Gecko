@@ -1,5 +1,5 @@
 # Welcome To Gecko
-![rmbanner](https://github.com/dmitchell217/ProjectM/blob/master/public/images/Ment.png)
+<!-- ![rmbanner](https://github.com/dmitchell217/ProjectM/blob/master/public/images/Ment.png) -->
 ## Overview: 
 Gecko is a platform that simplifies trading. Users can add funds, allocate new portfolios to US equities, and even share/copy their portfolio. All of the updating and automation of portfolio rebalancing is handled on the backend so users don't need to worry that their portfolios allocation percentages have changed due to dynamic market conditions. Gecko is great for users who want to profit from the US Equity market but may not want to actively manage themselves. Likewise, it's great for professional traders who want to share their money-making secrets, for free, fame, or fortune.
 
